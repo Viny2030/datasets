@@ -1,0 +1,11 @@
+'''En las clases de programacion el alumno comprende todas las 
+instrucciones y ordenes de 
+programacion que el profesor le sugiere. Muchas veces el profesor no es 
+capaz de comprender 
+las instrucciones y ordenes de programacion que el alumno escribe. 
+Por lo tanto el alumno debe comprender las instrucciones y ordenes de 
+programacion que el 
+profesor le sugiere. En las clases de programacion el alumno comprende 
+todas las 
+instrucciones y ordenes de programacion que el profesor le sugiere 
+??????'''
