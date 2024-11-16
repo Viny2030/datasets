@@ -1,0 +1,148 @@
+{
+  "I, bear, in, CITY": {
+    "sentences": [
+      "I was born in Madrid.",
+      "I was born in Madrid during 1995."
+    ],
+    "type": "NVPN",
+    "count": 2,
+    "sbj": "I",
+    "vrb": "bear",
+    "obj": null,
+    "cas": "in",
+    "com": "CITY"
+  },
+  "she, sleep": {
+    "sentences": [
+      "She sleeps.",
+      "She sleeps during the morning, but she sleeps."
+    ],
+    "type": "NV",
+    "count": 2,
+    "sbj": "she",
+    "vrb": "sleep",
+    "obj": null,
+    "cas": null,
+    "com": null
+  },
+  "she, drop, line, to, he": {
+    "sentences": [
+      "She dropped a line to him."
+    ],
+    "type": "NVNPN",
+    "count": 1,
+    "sbj": "she",
+    "vrb": "drop",
+    "obj": "line",
+    "cas": "to",
+    "com": "he"
+  },
+  "cat, chase, by, dog": {
+    "sentences": [
+      "the cat was chased by the dog."
+    ],
+    "type": "NVPN",
+    "count": 1,
+    "sbj": "cat",
+    "vrb": "chase",
+    "obj": null,
+    "cas": "by",
+    "com": "dog"
+  },
+  "she, sleep, during, TIME": {
+    "sentences": [
+      "She sleeps during the morning, but she sleeps."
+    ],
+    "type": "NVPN",
+    "count": 1,
+    "sbj": "she",
+    "vrb": "sleep",
+    "obj": null,
+    "cas": "during",
+    "com": "TIME"
+  },
+  "something, come, out, this": {
+    "sentences": [
+      "Out of all this , something good will come."
+    ],
+    "type": "NVPN",
+    "count": 1,
+    "sbj": "something",
+    "vrb": "come",
+    "obj": null,
+    "cas": "out",
+    "com": "this"
+  },
+  "PERSON, leave, after, rehearsal": {
+    "sentences": [
+      "Susan left after the rehearsal."
+    ],
+    "type": "NVPN",
+    "count": 1,
+    "sbj": "PERSON",
+    "vrb": "leave",
+    "obj": null,
+    "cas": "after",
+    "com": "rehearsal"
+  },
+  "I, bear, during, DATE": {
+    "sentences": [
+      "I was born in Madrid during 1995."
+    ],
+    "type": "NVPN",
+    "count": 1,
+    "sbj": "I",
+    "vrb": "bear",
+    "obj": null,
+    "cas": "during",
+    "com": "DATE"
+  },
+  "I, sleep, lot": {
+    "sentences": [
+      "I sleep a lot."
+    ],
+    "type": "NVN",
+    "count": 1,
+    "sbj": "I",
+    "vrb": "sleep",
+    "obj": "lot",
+    "cas": null,
+    "com": null
+  },
+  "she, do, it": {
+    "sentences": [
+      "She did it well."
+    ],
+    "type": "NVN",
+    "count": 1,
+    "sbj": "she",
+    "vrb": "do",
+    "obj": "it",
+    "cas": null,
+    "com": null
+  },
+  "PERSON, buy, book": {
+    "sentences": [
+      "Jane bought me these books."
+    ],
+    "type": "NVN",
+    "count": 1,
+    "sbj": "PERSON",
+    "vrb": "buy",
+    "obj": "book",
+    "cas": null,
+    "com": null
+  },
+  "PERSON, buy, book, for, I": {
+    "sentences": [
+      "Jane bought a book for me."
+    ],
+    "type": "NVNPN",
+    "count": 1,
+    "sbj": "PERSON",
+    "vrb": "buy",
+    "obj": "book",
+    "cas": "for",
+    "com": "I"
+  }
+}
